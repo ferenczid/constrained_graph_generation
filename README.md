@@ -57,7 +57,8 @@ If you use this code, please cite the paper above (see also `CITATION.cff`).
   booktitle = {Computational Science -- ICCS 2026},
   series    = {Lecture Notes in Computer Science},
   publisher = {Springer},
-  year      = {2026}
+  year      = {2026},
+  doi       = {10.1007/978-3-032-29924-6_51}
 }
 ```
 
