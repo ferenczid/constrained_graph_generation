@@ -9,14 +9,4 @@ authors:
     given-names: "Alexander"
 license: MIT
 repository-code: "https://github.com/ferenczid/constrained_graph_generation"
-preferred-citation:
-  type: conference-paper
-  title: "Constrained Graph Generation: Preserving Diameter and Clustering Coefficient Simultaneously"
-  authors:
-    - family-names: "Ferenczi"
-      given-names: "Dávid"
-    - family-names: "Grigoriev"
-      given-names: "Alexander"
-  collection-title: "Computational Science -- ICCS 2026"
-  doi: "10.1007/978-3-032-29924-6_51
-  year: 2026
+doi: "10.1007/978-3-032-29924-6_51"
